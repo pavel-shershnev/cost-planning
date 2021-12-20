@@ -1,4 +1,7 @@
-# vue2-practice
+## Project 
+```
+Сost planning
+```
 
 ## Project setup
 ```
@@ -14,11 +17,10 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
+### Login..Passward
 ```
-npm run lint
+login: pavel@mail.ru
+```
+password: 123456
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
