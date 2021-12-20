@@ -17,9 +17,10 @@ npm run serve
 ```
 npm run build
 ```
-### Login..Passward
+### Login..Password
 ```
 login: pavel@mail.ru
+```
 ```
 password: 123456
 ```
